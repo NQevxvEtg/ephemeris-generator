@@ -1,8 +1,8 @@
 1. Download ephemeris directory and put it in the main directory
-   # https://github.com/aloistr/swisseph/tree/master/ephe
+   ``` https://github.com/aloistr/swisseph/tree/master/ephe ```
   
 2. Extract swetest program and put it in the main directory (Unix OS, for other OS see https://github.com/aloistr/swisseph/tree/master)
-   # tar -xf swe_unix_src_2.10.03.tar.gz
+   ``` tar -xf swe_unix_src_2.10.03.tar.gz ```
 
 3. Make sure you have all the required files and directories, see working_directory_structure.png
 
